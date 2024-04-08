@@ -2,7 +2,9 @@
 
 Stock Analyzer is a web application built with Python and Streamlit that allows users to analyze stock data effortlessly. Whether you're a seasoned investor or just starting out, this app provides valuable insights into historical stock prices, fundamental financials, and the latest news related to selected stock tickers.
 ## Preview
-![Stock Analyser Preview](Screenshot%20(153).png)
+![Stock Analyser Preview](Screenshot%20(155).png)
+
+
 ## Features
 
 - **Pricing Data**: Dive into historical price movements, calculate annual return, standard deviation, and risk-adjusted return.
@@ -34,9 +36,12 @@ Choose the type of data you want to analyze: Pricing Data, Fundamental Data, or 
 Explore the insights provided based on your selection.
 
 ## Contact
+
 For more information or inquiries, feel free to contact the author:
 
-Author: Vishnukanth K
+- **Author**: Vishnukanth K
+- **LinkedIn**: [Vishnukanth K](https://www.linkedin.com/in/vishnukanth-k-a5552327b/)
 
-LinkedIn: [Vishnu Kanth K](https://www.linkedin.com/in/vishnukanth-k-a5552327b/)
+[Try out the Stock Analyzer web application and let me know your thoughts!](https://stock-analyser-webapp-x7xu.onrender.com/)
+
 
